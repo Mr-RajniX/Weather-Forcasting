@@ -1,0 +1,59 @@
+/* Nikal yaha se ja bootstrap sikh bhappp */
+@import url('https://fonts.googleapis.com/css2?family=Kalam:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+
+body {
+    /* background: url(https://images.pexels.com/photos/3617500/pexels-photo-3617500.jpeg?auto); */
+    background: url(https://images.pexels.com/photos/2835436/pexels-photo-2835436.jpeg?auto);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    color: aliceblue;
+    font-family: 'Ubuntu', sans-serif; 
+}
+.head{
+    font-family: 'Kalam', cursive;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+#cityName{
+    font-family: 'Kalam', cursive;
+    font-weight: 600;
+    text-decoration: underline;
+}
+
+.search {
+    margin-left: 30%;
+    padding-top: 1rem;
+    box-shadow: 10px 10px 8px #88888865;
+}
+
+.container {
+    margin-top: 3rem;
+}
+
+main {
+    margin-top: 3rem;
+}
+
+#city {
+    background-color: rgb(255, 255, 255);
+    border: none;
+}
+
+.card {
+    backdrop-filter: blur(14px);
+    background-color: rgba(255, 255, 255, 0.205);
+    color: aliceblue;
+}
+.btn{
+    background-color: aquamarine;
+    border: none;
+}
+.t-color{
+    background-color: rgb(247, 85, 26);
+    color: white;
+}
+.b-color
+{
+    border: 1px solid rgb(247, 85, 26);
+}
